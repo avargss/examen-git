@@ -1,3 +1,4 @@
 Capitulo 1: Introducción a la programación
 Capitulo 2: Sentencias de iteración
 Capitulo 3: Bucles
+Capitulo 4: Arrays
